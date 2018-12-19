@@ -11,7 +11,7 @@ First, run the local MongoDB database using function:
 You have to have globally installed [MongoDB](https://www.mongodb.com/download-center) to do this. It should be running on default port 27017.
 Then run command both in `/client` and `/api/` folders:
 
-### `npm start`
+### `npm update && npm start`
 
 It will open http://localhost:3000 and render the app and run API server on http://localhost:3001. 
 API endpoints:
