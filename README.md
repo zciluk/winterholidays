@@ -13,7 +13,10 @@ Then run command both in `/client` and `/api/` folders:
 
 ### `npm start`
 
-It will open http://localhost:3000 and render the app and run API server on http://localhost:3001.
+It will open http://localhost:3000 and render the app and run API server on http://localhost:3001. 
+API endpoints:
+GET /form - returns all forms from db
+POST /form - request to enter new form
 
 ## Testing
 
